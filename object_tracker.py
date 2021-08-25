@@ -129,21 +129,21 @@ def main(_argv):
     '''
     # video après midi
     line1 = [(25, 190),(150,190)]#IN
-    line2 = [0, 240),(500,240)]#OUT
+    line2 = [(0, 240),(500,240)]#OUT
     line3 = [(120, 200),(340,200)]#Jawaz
     line4 = [(300, 230), (550, 230)]#Manual   
     '''
     '''
     # video nuit
     line1 = [(25, 190),(150,190)]#IN
-    line2 = [0, 240),(500,240)]#OUT
+    line2 = [(0, 240),(500,240)]#OUT
     line3 = [(120, 200),(340,200)]#Jawaz
     line4 = [(300, 230), (550, 230)]#Manual   
     '''
     #initialize line parameters
     
     line1 = [(25, 190),(150,190)]#IN
-    line2 = [0, 240),(500,240)]#OUT
+    line2 = [(0, 240),(500,240)]#OUT
     line3 = [(120, 200),(340,200)]#Jawaz
     line4 = [(300, 230), (550, 230)]#Manual  
 
