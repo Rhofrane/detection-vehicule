@@ -128,23 +128,24 @@ def main(_argv):
    
     '''
     # video après midi
-    line1 = [(190, 370),(460,370)]#IN
-    line2 = [(155, 575),(890,575)]#OUT
-    line3 = [(360, 450),(670,450)]#Jawaz
-    line4 = [(730, 430), (990, 430)]#Manual  
+    line1 = [(25, 190),(150,190)]#IN
+    line2 = [0, 240),(500,240)]#OUT
+    line3 = [(120, 200),(340,200)]#Jawaz
+    line4 = [(300, 230), (550, 230)]#Manual   
     '''
     '''
     # video nuit
-    line1 = [(0, 150), (170, 150)]#IN
-    line2 = [(0, 285), (430, 285)]#OUT
-    line3 = [(230, 160), (385, 160)]#Jawaz
-    line4 = [(435, 135), (550, 135)]#Manual  
+    line1 = [(25, 190),(150,190)]#IN
+    line2 = [0, 240),(500,240)]#OUT
+    line3 = [(120, 200),(340,200)]#Jawaz
+    line4 = [(300, 230), (550, 230)]#Manual   
     '''
     #initialize line parameters
-    line1 = [(190, 370),(460,370)]#IN
-    line2 = [(155, 575),(890,575)]#OUT
-    line3 = [(360, 450),(670,450)]#Jawaz
-    line4 = [(610, 500),(915,500)]#Manual
+    
+    line1 = [(25, 190),(150,190)]#IN
+    line2 = [0, 240),(500,240)]#OUT
+    line3 = [(120, 200),(340,200)]#Jawaz
+    line4 = [(300, 230), (550, 230)]#Manual  
 
     #initialize counters
     counter_IN = 0
